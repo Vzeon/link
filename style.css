@@ -54,7 +54,7 @@ body {
     text-decoration: none;
 }
 .link-block:hover {
-    background-color: rgba(166, 8, 240, 0.3);
+    background-color: rgba(10, 245, 233, 0.3);
 }
 .link-block:last-child {
     margin-bottom: 35px;
