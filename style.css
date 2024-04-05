@@ -106,7 +106,7 @@ body {
         text-decoration: none;
     }
     .link-block:hover {
-        background-color: rgba(166, 8, 240, 0.3);
+        background-color: rgba(20, 205, 238, 0.3);
     }
     .link-block:last-child {
         margin-bottom: 8%;
