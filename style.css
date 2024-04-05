@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    background-image: url(giphy-downsized-large.gif);
+    background-image: url(giphy-downsized-large\ \(1\).gif);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -18,7 +18,7 @@ body {
     height: 128px;
     overflow: hidden;
     margin: 20px auto;
-    border: 3px solid rgb(102, 237, 255);
+    border: 3px solid rgb(194, 102, 255);
     border-radius: 50%;
 }
 
@@ -54,7 +54,7 @@ body {
     text-decoration: none;
 }
 .link-block:hover {
-    background-color: rgba(10, 245, 233, 0.3);
+    background-color: rgba(131, 10, 245, 0.3);
 }
 .link-block:last-child {
     margin-bottom: 35px;
@@ -80,7 +80,7 @@ body {
         height: 25%;
         overflow: hidden;
         margin: 20px auto;
-        border: 3px solid rgb(192, 248, 255);
+        border: 3px solid rgb(223, 130, 247);
         border-radius: 50%;
     }
     .profile-picture img {
@@ -106,7 +106,7 @@ body {
         text-decoration: none;
     }
     .link-block:hover {
-        background-color: rgba(20, 205, 238, 0.3);
+        background-color: rgba(155, 8, 240, 0.3);
     }
     .link-block:last-child {
         margin-bottom: 8%;
